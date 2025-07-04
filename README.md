@@ -1,13 +1,1 @@
 # test (awaiting quacks)
-
-quack
-
-quack
-
-quack
-
-quack
-
-quack
-
-quack
